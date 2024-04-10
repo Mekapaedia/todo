@@ -98,6 +98,15 @@
     - [ ] Floating point?
     - [ ] anything else?
 
+## [ ] Protocol/synchronous declarative modelling language
+- [ ] Syntax
+- [ ] Ordering/Sequencing model
+- [ ] Message exchange
+- [ ] Interaction with attosim
+- [ ] Correctness?
+- [ ] Derive performance metrics from protocol specification?
+- [ ] Generate protocol documentation from specification?
+
 ## [ ] Model zoo for attosim?
 
 ## [ ] Attosim RSFQ elements?
