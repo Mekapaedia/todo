@@ -1,6 +1,12 @@
 # Just some tasks I want to do
 ## [x] Make this list (damn I'm good)
 
+## [ ] Versioning/catalogue version-system for hardware/software (not semver but semver-like)
+ - [ ] Figure out system
+ - [ ] Python proof of concept/module
+ - [ ] C-lib (header only ideally)
+ - [ ] Rust lib
+
 ## [ ] [Pythony, "application level" programming language](https://github.com/Mekapaedia/hognose)
 - [ ] Type system
     - [ ] Gradual typing
@@ -18,7 +24,7 @@
     - [ ] Basic syntax
     - [ ] Expression syntax
     - [ ] Operators?
-    - [ ] ""spat"" operator?
+    - [ ] ""splat"" operator?
     - [ ] Strings?
     - [ ] Literals
     - [ ] Statment end
@@ -106,6 +112,15 @@
 - [ ] Correctness?
 - [ ] Derive performance metrics from protocol specification?
 - [ ] Generate protocol documentation from specification?
+
+## [ ] "Bootstrap" language (C-like, Zig-like, LL1, portable, etc)
+- [ ] Syntax
+- [ ] Asm interface
+- [ ] C interface
+- [ ] comptime etc
+- [ ] portable compiler (don't rely on LLVM)
+
+## [ ] Non-terrible config language?
 
 ## [ ] Model zoo for attosim?
 
